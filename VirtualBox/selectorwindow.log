@@ -1,0 +1,34 @@
+00:00:00.390324 VirtualBox GUI VM Selector Window 7.2.4 r170995 linux.amd64 (Oct 17 2025 09:04:29) release log
+00:00:00.390325 Log opened 2026-01-10T23:09:47.474911000Z
+00:00:00.390326 Build Type: release
+00:00:00.390331 OS Product: Linux
+00:00:00.390332 OS Release: 6.18.3-arch1-1
+00:00:00.390333 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 02 Jan 2026 17:52:55 +0000
+00:00:00.390360 DMI Product Name: H310M S2 2.0
+00:00:00.390367 DMI Product Version: Default string
+00:00:00.390376 Firmware type: UEFI
+00:00:00.390940 Secure Boot: Disabled
+00:00:00.390993 Host RAM: 7810MB (7.6GB) total, 6675MB (6.5GB) available
+00:00:00.390997 Executable: /opt/VirtualBox/VirtualBox
+00:00:00.390998 Process ID: 4133
+00:00:00.390998 Package type: LINUX_64BITS_GENERIC
+00:00:00.391028 Qt version: 6.8.0
+00:00:00.392215 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.408947 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.085662 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.173844 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:05.173863 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:01:33.071533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:33.148800 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:55.939097 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:27.843659 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:35.883421 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:35.966329 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:05.014146 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:22.769513 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:26.585418 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:43.775106 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:56.612863 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:37.145186 GUI: UICommon: Handling aboutToQuit request..
+00:09:37.650293 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:09:37.665961 GUI: UICommon: aboutToQuit request handled!

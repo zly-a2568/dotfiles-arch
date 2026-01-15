@@ -1,0 +1,62 @@
+2025-12-29 13:09:55.523 [info] Started local extension host with pid 3851.
+2025-12-29 13:09:55.987 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-29 13:09:57.412 [error] Canceled: Canceled
+    at x1 (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37681
+    at Array.forEach (<anonymous>)
+    at YRt.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37621)
+    at t$e.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:49298)
+    at CSn.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7731)
+    at ySn.stopAllInReverse (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7033)
+    at async kLt.tb (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3900:15950)
+2025-12-29 13:09:57.413 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled
+2025-12-29 13:09:57.413 [error] Canceled: Canceled
+    at x1 (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37681
+    at Array.forEach (<anonymous>)
+    at YRt.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37621)
+    at t$e.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:49298)
+    at CSn.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7731)
+    at ySn.stopAllInReverse (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7033)
+    at async kLt.tb (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3900:15950)
+2025-12-29 13:09:57.413 [error] Canceled: Canceled
+    at x1 (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37681
+    at Array.forEach (<anonymous>)
+    at YRt.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37621)
+    at t$e.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:49298)
+    at CSn.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7731)
+    at ySn.stopAllInReverse (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7033)
+    at async kLt.tb (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3900:15950)
+2025-12-29 13:09:57.414 [error] Canceled: Canceled
+    at x1 (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37681
+    at Array.forEach (<anonymous>)
+    at YRt.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37621)
+    at t$e.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:49298)
+    at CSn.dispose (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7731)
+    at ySn.stopAllInReverse (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3901:7033)
+    at async kLt.tb (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3900:15950)
+2025-12-29 13:09:57.415 [error] Canceled: Canceled
+    at new sSn (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:36200)
+    at YRt.U (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:40852)
+    at n.<computed>.o.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38337)
+    at Bai.getSessions (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:74279)
+    at HKe.getSessions (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:71264)
+    at HKe.getAccounts (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:70561)
+    at VKe.j (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:64998)
+    at Object.factory (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:64239)
+    at lw.j (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75972)
+    at lw.k (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:30:76105)
+2025-12-29 13:09:57.416 [error] Canceled: Canceled
+    at new sSn (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:36200)
+    at YRt.U (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:40852)
+    at n.<computed>.o.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38337)
+    at Bai.getSessions (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:74279)
+    at HKe.getSessions (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:71264)
+    at HKe.getAccounts (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:603:70561)
+    at aJe.h (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:604:42701)
+    at Object.factory (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:604:41938)
+    at lw.j (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75972)
+    at lw.k (vscode-file://vscode-app/opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:30:76105)
+2025-12-29 13:09:57.746 [info] Settings Sync: Account status changed from uninitialized to unavailable

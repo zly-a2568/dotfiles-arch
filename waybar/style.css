@@ -1,0 +1,120 @@
+/* ============================================
+   Waybar CSS - Stable & Beautiful Version
+   去除所有不兼容属性，确保稳定运行
+   ============================================ */
+
+/* 全局字体设置 */
+* {
+    font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", "Symbols Nerd Font", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    min-height: 0;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* 主窗口设置 */
+window#waybar {
+    /* 背景色：使用深色半透明，兼容性最好 */
+    background: rgba(30, 30, 46, 0.8);
+    
+    /* 文字颜色 */
+    color: #cdd6f4;
+    
+    /* 圆角和边框 */
+    border-radius: 12px;
+    
+    
+    /* 阴影效果：制造悬浮感 */
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+    
+    /* 过渡动画 */
+    transition-property: background-color;
+    transition-duration: 0.5s;
+}
+
+/* 提示框样式 */
+tooltip {
+    background: rgba(30, 30, 46, 0.95);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+}
+
+tooltip label {
+    color: #cdd6f4;
+    padding: 5px;
+}
+
+/* ============================================
+   模块通用样式
+   ============================================ */
+
+/* 工作区按钮 */
+#workspaces button {
+    padding: 0 10px;
+    color: #6c7086;
+    background: transparent;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    margin: 4px 2px;
+}
+
+#workspaces button:hover {
+    background: rgba(137, 180, 250, 0.2);
+    color: #cdd6f4;
+}
+
+#workspaces button.active {
+    background: #89b4fa; /* 活跃工作区使用纯色 */
+    color: #1e1e2e; /* 深色文字 */
+}
+
+/* Logo 图标 */
+#custom-logo {
+    font-size: 20px;
+    padding-left: 10px;
+    color: #89dceb;
+}
+
+/* 时间 */
+#clock {
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(255,255,255,0.2);
+}
+
+/* 右侧状态模块 (音量、电池等) */
+#cpu, #memory, #pulseaudio, #backlight, #battery, #custom-power, #tray,#power-profiles-daemon {
+    padding: 0 12px;
+    margin: 4px 4px;
+    background: rgba(255, 255, 255, 0.05); /* 极淡的背景区分模块 */
+    border-radius: 8px;
+    transition: background 0.2s;
+}
+
+/* 鼠标悬停在模块上的效果 */
+#cpu:hover, #memory:hover, #pulseaudio:hover, #backlight:hover, #battery:hover, #custom-power:hover,#power-profiles-daemon:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* 托盘图标调整 */
+#tray {
+    margin-right: 5px;
+}
+
+
+/* 电源键特殊样式 */
+#custom-power {
+    color: #f38ba8;
+    margin-right: 5px;
+}
+#custom-power:hover {
+    background: #f38ba8;
+    color: #1e1e2e;
+}
+
+/* 电池闪烁动画 */
+@keyframes blink {
+    to {
+        color: #1e1e2e;
+    }
+}

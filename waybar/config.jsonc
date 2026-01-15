@@ -1,0 +1,152 @@
+// -*- mode: jsonc -*-
+{
+  "layer": "top",
+  "position": "top",
+  "height": 36,
+  "spacing": 8,
+  // 模块顺序：左(Hyprland工作区) -- 中(时间) -- 右(系统状态)
+  "modules-left": [
+    "custom/logo",
+    "hyprland/workspaces",
+    "cava"
+  ],
+  "modules-center": [
+    "hyprland/window"
+  ],
+  "modules-right": [
+    "network",
+    "cpu",
+    "memory",
+    "pulseaudio",
+    "clock",
+    "tray",
+    "power-profiles-daemon",
+    "custom/power"
+  ],
+  // -----------------------
+  // 模块详细配置
+  // -----------------------
+  // 1. 自定义 Logo (左侧)
+  "custom/logo": {
+    "format": " ",
+    "tooltip": false,
+    "on-click": "rofi -show drun -show-icons"
+  },
+  // 2. Hyprland 工作区 (关键修改点)
+  "hyprland/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "format": "{icon}",
+    "format-icons": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "urgent": "",
+      "active": "",
+      "default": ""
+    },
+    "persistent-workspaces": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": []
+    }
+  },
+  "hyprland/window": {
+    "format": "{}", // {} 会被替换为当前窗口标题
+    "max-length": 40
+  },
+  "cava": {
+    //"cava_config": "$XDG_CONFIG_HOME/cava/cava.conf",
+    "framerate": 30,
+    "autosens": 1,
+    //"sensitivity": 100,
+    "bars": 10,
+    "lower_cutoff_freq": 50,
+    "higher_cutoff_freq": 10000,
+    "method": "pulse",
+    "source": "auto",
+    "stereo": true,
+    "reverse": false,
+    "bar_delimiter": 0,
+    "monstercat": false,
+    "waves": false,
+    "noise_reduction": 0.77,
+    "input_delay": 2,
+    "format-icons": [
+      "▂",
+      "▃",
+      "▄",
+      "▅",
+      "▆",
+      "▇",
+      "█",
+      "▉"
+    ],
+    "actions": {
+      "on-click-right": "mode"
+    }
+  },
+  // 3. 时间 (已修复，加上了 format)
+  "clock": {
+    "timezone": "",
+    "format": "{:%Y-%m-%d %H:%M}", // 这里修复了显示问题
+    "format-alt": "{:%H:%M:%S}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "interval": 1
+  },
+  // 4. 网络状态
+  "network": {
+    "format-wifi": "{essid} ({signalStrength}%) ",
+    "format-ethernet": "{ipaddr} ",
+    "format-disconnected": "Disconnected ⚠",
+    "tooltip-format": "{ifname}: {ipaddr}"
+  },
+  // 5. CPU 占用
+  "cpu": {
+    "format": " {usage}%",
+    "interval": 2,
+    "tooltip": false
+  },
+  // 6. 内存占用
+  "memory": {
+    "format": " {}%"
+  },
+  // 7. 音量
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": " muted",
+    "format-icons": {
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "on-click": "pavucontrol"
+  },
+  "power-profiles-daemon": {
+    "format": "{icon}",
+    "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+    "tooltip": true,
+    "format-icons": {
+      "default": "",
+      "performance": "",
+      "balanced": "",
+      "power-saver": ""
+    }
+  },
+  "tray": {
+    "icon-size": 18,
+    "spacing": 8
+  },
+  // 11. 自定义电源菜单
+  "custom/power": {
+    "format": "⏻",
+    "tooltip": false,
+    "on-click": "nwg-bar" // 或者是 systemctl poweroff
+  }
+}

@@ -1,0 +1,3295 @@
+[2025-12-26 23:18:40.482] [info]  [Motrix] Logger init
+[2025-12-26 23:18:40.493] [warn]  [Motrix] Logger init
+[2025-12-26 23:18:40.647] [info]  [Motrix] openedAtLogin: false
+[2025-12-26 23:18:40.932] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixFvkmO7/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixFvkmO7/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixFvkmO7/resources/engine/aria2.conf'
+}
+[2025-12-26 23:18:42.420] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:6969/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://104.248.85.59:6969/announce\n' +
+    '\n' +
+    'udp://217.156.123.49:1337/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n' +
+    'http://211.75.205.188:80/announce\n' +
+    '\n' +
+    'http://95.217.167.10:6969/announce\n' +
+    '\n' +
+    'http://140.235.237.23:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://bt.bontal.net:6969/announce\n' +
+    '\n' +
+    'udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce\n' +
+    '\n' +
+    'udp://6ahddutb1ucc3cp.ru:6969/announce\n' +
+    '\n' +
+    'https://tracker.yemekyedim.com:443/announce\n' +
+    '\n'
+]
+[2025-12-26 23:18:42.767] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-26 23:18:42.768] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-27 00:39:33.437] [info]  [Motrix] Logger init
+[2025-12-27 00:39:33.448] [warn]  [Motrix] Logger init
+[2025-12-27 00:39:33.600] [info]  [Motrix] openedAtLogin: false
+[2025-12-27 00:39:33.906] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix1v5jrt/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix1v5jrt/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix1v5jrt/resources/engine/aria2.conf'
+}
+[2025-12-27 00:39:35.741] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-27 00:39:35.741] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-28 13:35:24.172] [info]  [Motrix] Logger init
+[2025-12-28 13:35:24.184] [warn]  [Motrix] Logger init
+[2025-12-28 13:35:24.354] [info]  [Motrix] openedAtLogin: false
+[2025-12-28 13:35:24.642] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixYoDerq/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixYoDerq/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixYoDerq/resources/engine/aria2.conf'
+}
+[2025-12-28 13:35:26.475] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-28 13:35:26.476] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-28 13:37:38.969] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://44.30.4.4:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.189:80/announce\n' +
+    '\n' +
+    'udp://84.54.51.78:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://52.58.128.163:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.248:1337/announce\n' +
+    '\n',
+  null
+]
+[2025-12-28 22:44:42.548] [info]  [Motrix] Logger init
+[2025-12-28 22:44:42.561] [warn]  [Motrix] Logger init
+[2025-12-28 22:44:42.713] [info]  [Motrix] openedAtLogin: false
+[2025-12-28 22:44:43.041] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixzWGkNe/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixzWGkNe/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixzWGkNe/resources/engine/aria2.conf'
+}
+[2025-12-28 22:44:44.882] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-28 22:44:44.883] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-28 22:44:48.696] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: socket hang up
+[2025-12-28 22:46:21.149] [info]  [Motrix] Logger init
+[2025-12-28 22:46:21.161] [warn]  [Motrix] Logger init
+[2025-12-28 22:46:21.335] [info]  [Motrix] openedAtLogin: false
+[2025-12-28 22:46:21.655] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixZcTjLC/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixZcTjLC/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixZcTjLC/resources/engine/aria2.conf'
+}
+[2025-12-28 22:46:23.498] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-28 22:46:23.499] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-28 22:53:11.966] [info]  [Motrix] Logger init
+[2025-12-28 22:53:11.975] [warn]  [Motrix] Logger init
+[2025-12-28 22:53:12.119] [info]  [Motrix] openedAtLogin: false
+[2025-12-28 22:53:12.367] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixngyuXY/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixngyuXY/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixngyuXY/resources/engine/aria2.conf'
+}
+[2025-12-28 22:53:14.201] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-28 22:53:14.203] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 13:02:05.276] [info]  [Motrix] Logger init
+[2025-12-29 13:02:05.288] [warn]  [Motrix] Logger init
+[2025-12-29 13:02:05.444] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 13:02:05.847] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix9wQ45q/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix9wQ45q/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix9wQ45q/resources/engine/aria2.conf'
+}
+[2025-12-29 13:02:06.976] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://44.30.4.4:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.189:80/announce\n' +
+    '\n' +
+    'udp://84.54.51.78:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://52.58.128.163:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.248:1337/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.therarbg.to:6969/announce\n' +
+    '\n' +
+    'udp://tracker.skynetcloud.site:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.hifimarket.in:2710/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n'
+]
+[2025-12-29 13:02:07.692] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 13:02:07.693] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 13:16:15.683] [info]  [Motrix] Logger init
+[2025-12-29 13:16:15.694] [warn]  [Motrix] Logger init
+[2025-12-29 13:16:15.852] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 13:16:16.235] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixBCS5Sa/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixBCS5Sa/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixBCS5Sa/resources/engine/aria2.conf'
+}
+[2025-12-29 13:16:18.077] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 13:16:18.078] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 13:54:04.617] [info]  [Motrix] Logger init
+[2025-12-29 13:54:04.629] [warn]  [Motrix] Logger init
+[2025-12-29 13:54:04.792] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 13:54:05.172] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixFnrpRv/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixFnrpRv/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixFnrpRv/resources/engine/aria2.conf'
+}
+[2025-12-29 13:54:07.018] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 13:54:07.019] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 14:05:05.606] [info]  [Motrix] Logger init
+[2025-12-29 14:05:05.616] [warn]  [Motrix] Logger init
+[2025-12-29 14:05:05.765] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 14:05:06.092] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixHUh4lq/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixHUh4lq/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixHUh4lq/resources/engine/aria2.conf'
+}
+[2025-12-29 14:05:07.927] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 14:05:07.928] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 23:01:34.562] [info]  [Motrix] Logger init
+[2025-12-29 23:01:34.574] [warn]  [Motrix] Logger init
+[2025-12-29 23:01:34.730] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 23:01:35.103] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixn3khiC/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixn3khiC/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixn3khiC/resources/engine/aria2.conf'
+}
+[2025-12-29 23:01:36.939] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 23:01:36.940] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 23:26:34.525] [info]  [Motrix] Logger init
+[2025-12-29 23:26:34.537] [warn]  [Motrix] Logger init
+[2025-12-29 23:26:34.699] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 23:26:35.045] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixv3T2Qp/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixv3T2Qp/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixv3T2Qp/resources/engine/aria2.conf'
+}
+[2025-12-29 23:26:36.886] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 23:26:36.887] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-29 23:53:16.689] [info]  [Motrix] Logger init
+[2025-12-29 23:53:16.702] [warn]  [Motrix] Logger init
+[2025-12-29 23:53:16.877] [info]  [Motrix] openedAtLogin: false
+[2025-12-29 23:53:17.267] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixra2Xir/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixra2Xir/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixra2Xir/resources/engine/aria2.conf'
+}
+[2025-12-29 23:53:19.116] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-29 23:53:19.118] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 00:41:04.909] [info]  [Motrix] Logger init
+[2025-12-30 00:41:04.920] [warn]  [Motrix] Logger init
+[2025-12-30 00:41:05.095] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 00:41:05.464] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixDHIw4d/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixDHIw4d/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixDHIw4d/resources/engine/aria2.conf'
+}
+[2025-12-30 00:41:07.307] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 00:41:07.308] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 13:18:22.287] [info]  [Motrix] Logger init
+[2025-12-30 13:18:22.299] [warn]  [Motrix] Logger init
+[2025-12-30 13:18:22.456] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 13:18:22.786] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixMtabrp/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixMtabrp/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixMtabrp/resources/engine/aria2.conf'
+}
+[2025-12-30 13:18:24.629] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 13:18:24.630] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 13:21:07.060] [info]  [Motrix] Logger init
+[2025-12-30 13:21:07.072] [warn]  [Motrix] Logger init
+[2025-12-30 13:21:07.227] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 13:21:07.637] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixlGJeg3/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixlGJeg3/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixlGJeg3/resources/engine/aria2.conf'
+}
+[2025-12-30 13:21:09.480] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 13:21:09.481] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 13:21:28.518] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:80/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://179.98.254.109:6969/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.therarbg.to:6969/announce\n' +
+    '\n' +
+    'udp://tracker.skynetcloud.site:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.hifimarket.in:2710/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n'
+]
+[2025-12-30 13:53:49.939] [info]  [Motrix] Logger init
+[2025-12-30 13:53:49.951] [warn]  [Motrix] Logger init
+[2025-12-30 13:53:50.108] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 13:53:50.516] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixau7zF6/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixau7zF6/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixau7zF6/resources/engine/aria2.conf'
+}
+[2025-12-30 13:53:52.360] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 13:53:52.361] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 23:15:02.272] [info]  [Motrix] Logger init
+[2025-12-30 23:15:02.284] [warn]  [Motrix] Logger init
+[2025-12-30 23:15:02.445] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 23:15:02.878] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixDCtNSJ/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixDCtNSJ/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixDCtNSJ/resources/engine/aria2.conf'
+}
+[2025-12-30 23:15:04.726] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 23:15:04.726] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 23:24:49.518] [info]  [Motrix] Logger init
+[2025-12-30 23:24:49.530] [warn]  [Motrix] Logger init
+[2025-12-30 23:24:49.698] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 23:24:50.101] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixivwvLP/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixivwvLP/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixivwvLP/resources/engine/aria2.conf'
+}
+[2025-12-30 23:24:51.947] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 23:24:51.948] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-30 23:33:49.926] [info]  [Motrix] Logger init
+[2025-12-30 23:33:49.938] [warn]  [Motrix] Logger init
+[2025-12-30 23:33:50.096] [info]  [Motrix] openedAtLogin: false
+[2025-12-30 23:33:50.508] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix7wdxA4/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix7wdxA4/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix7wdxA4/resources/engine/aria2.conf'
+}
+[2025-12-30 23:33:52.353] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-30 23:33:52.355] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 00:16:42.703] [info]  [Motrix] Logger init
+[2025-12-31 00:16:42.716] [warn]  [Motrix] Logger init
+[2025-12-31 00:16:42.872] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 00:16:43.301] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixkKGF4p/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixkKGF4p/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixkKGF4p/resources/engine/aria2.conf'
+}
+[2025-12-31 00:16:45.133] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 00:16:45.134] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 00:19:25.348] [info]  [Motrix] Logger init
+[2025-12-31 00:19:25.361] [warn]  [Motrix] Logger init
+[2025-12-31 00:19:25.519] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 00:19:25.947] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixp5aEGE/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixp5aEGE/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixp5aEGE/resources/engine/aria2.conf'
+}
+[2025-12-31 00:19:27.790] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 00:19:27.794] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 13:12:08.808] [info]  [Motrix] Logger init
+[2025-12-31 13:12:08.820] [warn]  [Motrix] Logger init
+[2025-12-31 13:12:08.973] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 13:12:09.395] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixJ53zr6/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixJ53zr6/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixJ53zr6/resources/engine/aria2.conf'
+}
+[2025-12-31 13:12:10.559] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:80/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://179.98.254.109:6969/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n'
+]
+[2025-12-31 13:12:11.237] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 13:12:11.238] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 13:19:20.462] [info]  [Motrix] Logger init
+[2025-12-31 13:19:20.474] [warn]  [Motrix] Logger init
+[2025-12-31 13:19:20.641] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 13:19:21.057] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixFqYGW6/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixFqYGW6/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixFqYGW6/resources/engine/aria2.conf'
+}
+[2025-12-31 13:19:22.901] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 13:19:22.902] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 14:01:34.968] [info]  [Motrix] Logger init
+[2025-12-31 14:01:34.983] [warn]  [Motrix] Logger init
+[2025-12-31 14:01:35.179] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 14:01:35.721] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixKGAaLe/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixKGAaLe/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixKGAaLe/resources/engine/aria2.conf'
+}
+[2025-12-31 14:01:37.576] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 14:01:37.579] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 21:41:19.862] [info]  [Motrix] Logger init
+[2025-12-31 21:41:19.874] [warn]  [Motrix] Logger init
+[2025-12-31 21:41:20.062] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 21:41:20.563] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixKTXMqx/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixKTXMqx/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixKTXMqx/resources/engine/aria2.conf'
+}
+[2025-12-31 21:41:22.417] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 21:41:22.418] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 22:54:31.439] [info]  [Motrix] Logger init
+[2025-12-31 22:54:31.452] [warn]  [Motrix] Logger init
+[2025-12-31 22:54:31.633] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 22:54:32.110] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix8dCziU/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix8dCziU/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix8dCziU/resources/engine/aria2.conf'
+}
+[2025-12-31 22:54:33.974] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 22:54:33.975] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 23:03:54.257] [info]  [Motrix] Logger init
+[2025-12-31 23:03:54.272] [warn]  [Motrix] Logger init
+[2025-12-31 23:03:54.470] [info]  [Motrix] openedAtLogin: false
+[2025-12-31 23:03:54.996] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixvQpePk/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixvQpePk/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixvQpePk/resources/engine/aria2.conf'
+}
+[2025-12-31 23:03:56.863] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2025-12-31 23:03:56.864] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2025-12-31 23:18:13.778] [info]  [Motrix] Logger init
+[2025-12-31 23:18:13.788] [warn]  [Motrix] Logger init
+[2026-01-01 06:12:26.736] [info]  [Motrix] Logger init
+[2026-01-01 06:12:26.749] [warn]  [Motrix] Logger init
+[2026-01-01 06:12:26.922] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 06:12:27.320] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixCZ8xvS/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixCZ8xvS/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixCZ8xvS/resources/engine/aria2.conf'
+}
+[2026-01-01 06:12:28.633] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.188:80/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.189:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://177.215.65.40:6969/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n'
+]
+[2026-01-01 06:12:29.169] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 06:12:29.170] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 06:54:14.549] [info]  [Motrix] Logger init
+[2026-01-01 06:54:14.562] [warn]  [Motrix] Logger init
+[2026-01-01 06:54:14.749] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 06:54:15.182] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixhRlczv/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixhRlczv/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixhRlczv/resources/engine/aria2.conf'
+}
+[2026-01-01 06:54:17.039] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 06:54:17.043] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 07:06:42.083] [info]  [Motrix] Logger init
+[2026-01-01 07:06:42.096] [warn]  [Motrix] Logger init
+[2026-01-01 07:06:42.266] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 07:06:42.718] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix9YKPoE/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix9YKPoE/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix9YKPoE/resources/engine/aria2.conf'
+}
+[2026-01-01 07:06:44.585] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 07:06:44.585] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 07:20:14.069] [info]  [Motrix] Logger init
+[2026-01-01 07:20:14.083] [warn]  [Motrix] Logger init
+[2026-01-01 07:20:14.264] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 07:20:14.665] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixCJ0YPJ/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixCJ0YPJ/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixCJ0YPJ/resources/engine/aria2.conf'
+}
+[2026-01-01 07:20:16.509] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 07:20:16.510] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 07:55:21.213] [info]  [Motrix] Logger init
+[2026-01-01 07:55:21.228] [warn]  [Motrix] Logger init
+[2026-01-01 07:55:21.458] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 07:55:21.900] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixBQrW85/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixBQrW85/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixBQrW85/resources/engine/aria2.conf'
+}
+[2026-01-01 07:55:23.770] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 07:55:23.772] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 13:52:00.718] [info]  [Motrix] Logger init
+[2026-01-01 13:52:00.732] [warn]  [Motrix] Logger init
+[2026-01-01 13:52:00.947] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 13:52:01.438] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixnA0FVO/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixnA0FVO/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixnA0FVO/resources/engine/aria2.conf'
+}
+[2026-01-01 13:52:03.306] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 13:52:03.309] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 14:18:32.396] [info]  [Motrix] Logger init
+[2026-01-01 14:18:32.415] [warn]  [Motrix] Logger init
+[2026-01-01 14:18:32.625] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 14:18:33.125] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixwr5MyD/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixwr5MyD/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixwr5MyD/resources/engine/aria2.conf'
+}
+[2026-01-01 14:18:34.988] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 14:18:34.993] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-01 14:24:07.776] [info]  [Motrix] Logger init
+[2026-01-01 14:24:07.791] [warn]  [Motrix] Logger init
+[2026-01-01 14:24:07.985] [info]  [Motrix] openedAtLogin: false
+[2026-01-01 14:24:08.454] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixoOMAtG/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixoOMAtG/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixoOMAtG/resources/engine/aria2.conf'
+}
+[2026-01-01 14:24:10.311] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-01 14:24:10.312] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-02 15:48:13.048] [info]  [Motrix] Logger init
+[2026-01-02 15:48:13.061] [warn]  [Motrix] Logger init
+[2026-01-02 15:48:13.257] [info]  [Motrix] openedAtLogin: false
+[2026-01-02 15:48:13.672] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix208VRb/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix208VRb/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix208VRb/resources/engine/aria2.conf'
+}
+[2026-01-02 15:48:14.957] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.248:1337/announce\n' +
+    '\n' +
+    'udp://38.175.99.50:6969/announce\n' +
+    '\n' +
+    'udp://217.156.123.49:1337/announce\n' +
+    '\n' +
+    'udp://103.251.166.126:6969/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n' +
+    'http://211.75.205.189:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.dstud.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://evan.im:6969/announce\n' +
+    '\n' +
+    'udp://bt.bontal.net:6969/announce\n' +
+    '\n' +
+    'udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce\n' +
+    '\n'
+]
+[2026-01-02 15:48:15.538] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-02 15:48:15.539] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-02 20:09:49.114] [info]  [Motrix] Logger init
+[2026-01-02 20:09:49.126] [warn]  [Motrix] Logger init
+[2026-01-02 20:09:49.308] [info]  [Motrix] openedAtLogin: false
+[2026-01-02 20:09:49.697] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixNKIFxV/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixNKIFxV/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixNKIFxV/resources/engine/aria2.conf'
+}
+[2026-01-02 20:09:51.551] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-02 20:09:51.554] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-02 20:13:52.610] [info]  [Motrix] Logger init
+[2026-01-02 20:13:52.621] [warn]  [Motrix] Logger init
+[2026-01-02 20:13:52.790] [info]  [Motrix] openedAtLogin: false
+[2026-01-02 20:13:53.205] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixvuqW0Q/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixvuqW0Q/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixvuqW0Q/resources/engine/aria2.conf'
+}
+[2026-01-02 20:13:55.055] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-02 20:13:55.056] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-02 21:21:44.839] [info]  [Motrix] Logger init
+[2026-01-02 21:21:44.852] [warn]  [Motrix] Logger init
+[2026-01-02 21:21:45.037] [info]  [Motrix] openedAtLogin: false
+[2026-01-02 21:21:45.451] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixu6ZfuC/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixu6ZfuC/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixu6ZfuC/resources/engine/aria2.conf'
+}
+[2026-01-02 21:21:47.301] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-02 21:21:47.303] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-02 21:31:33.275] [info]  [Motrix] Logger init
+[2026-01-02 21:31:33.288] [warn]  [Motrix] Logger init
+[2026-01-02 21:31:33.502] [info]  [Motrix] openedAtLogin: false
+[2026-01-02 21:31:33.935] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixD7pSsQ/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixD7pSsQ/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixD7pSsQ/resources/engine/aria2.conf'
+}
+[2026-01-02 21:31:35.788] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-02 21:31:35.789] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 07:09:40.260] [info]  [Motrix] Logger init
+[2026-01-03 07:09:40.273] [warn]  [Motrix] Logger init
+[2026-01-03 07:09:40.441] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 07:09:40.871] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixct73cS/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixct73cS/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixct73cS/resources/engine/aria2.conf'
+}
+[2026-01-03 07:09:42.156] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.248:1337/announce\n' +
+    '\n' +
+    'udp://38.175.99.50:6969/announce\n' +
+    '\n' +
+    'udp://217.156.123.49:1337/announce\n' +
+    '\n' +
+    'udp://103.251.166.126:6969/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n' +
+    'http://211.75.205.189:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.dstud.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://evan.im:6969/announce\n' +
+    '\n' +
+    'udp://bt.bontal.net:6969/announce\n' +
+    '\n' +
+    'udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce\n' +
+    '\n'
+]
+[2026-01-03 07:09:42.721] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 07:09:42.723] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 08:02:05.978] [info]  [Motrix] Logger init
+[2026-01-03 08:02:05.988] [warn]  [Motrix] Logger init
+[2026-01-03 08:02:06.204] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 08:02:06.632] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixHAeWrD/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixHAeWrD/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixHAeWrD/resources/engine/aria2.conf'
+}
+[2026-01-03 08:02:08.473] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 08:02:08.476] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 08:52:47.942] [info]  [Motrix] Logger init
+[2026-01-03 08:52:47.954] [warn]  [Motrix] Logger init
+[2026-01-03 08:52:48.120] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 08:52:48.491] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixuddLyW/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixuddLyW/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixuddLyW/resources/engine/aria2.conf'
+}
+[2026-01-03 08:52:50.332] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 08:52:50.333] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 17:21:37.126] [info]  [Motrix] Logger init
+[2026-01-03 17:21:37.138] [warn]  [Motrix] Logger init
+[2026-01-03 17:21:37.292] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 17:21:37.629] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixhTNGNn/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixhTNGNn/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixhTNGNn/resources/engine/aria2.conf'
+}
+[2026-01-03 17:21:39.463] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 17:21:39.464] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 17:34:06.790] [info]  [Motrix] Logger init
+[2026-01-03 17:34:06.805] [warn]  [Motrix] Logger init
+[2026-01-03 17:34:06.990] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 17:34:07.421] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixle7evO/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixle7evO/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixle7evO/resources/engine/aria2.conf'
+}
+[2026-01-03 17:34:09.272] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 17:34:09.273] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 17:48:50.836] [info]  [Motrix] Logger init
+[2026-01-03 17:48:50.849] [warn]  [Motrix] Logger init
+[2026-01-03 17:48:51.054] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 17:48:51.485] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixGvXbo2/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixGvXbo2/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixGvXbo2/resources/engine/aria2.conf'
+}
+[2026-01-03 17:49:02.387] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 17:49:02.387] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-03 18:00:56.800] [info]  [Motrix] Logger init
+[2026-01-03 18:00:56.812] [warn]  [Motrix] Logger init
+[2026-01-03 18:00:57.001] [info]  [Motrix] openedAtLogin: false
+[2026-01-03 18:00:57.414] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixm2xfUX/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixm2xfUX/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixm2xfUX/resources/engine/aria2.conf'
+}
+[2026-01-03 18:00:59.278] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-03 18:00:59.279] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 05:55:37.768] [info]  [Motrix] Logger init
+[2026-01-04 05:55:37.781] [warn]  [Motrix] Logger init
+[2026-01-04 05:55:37.973] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 05:55:38.424] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixdSvOnW/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixdSvOnW/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixdSvOnW/resources/engine/aria2.conf'
+}
+[2026-01-04 05:55:39.701] [warn]  [Motrix] auto sync tracker data: [
+  'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'http://186.10.172.248:1337/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://209.50.255.93:3218/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://84.54.51.78:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://60.249.37.20:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://177.139.47.18:6969/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n',
+  'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'http://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tvunderground.org.ru:3218/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.therarbg.to:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n'
+]
+[2026-01-04 05:55:40.281] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 05:55:40.283] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 22:58:22.972] [info]  [Motrix] Logger init
+[2026-01-04 22:58:22.985] [warn]  [Motrix] Logger init
+[2026-01-04 22:58:23.174] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 22:58:23.586] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix1sS2aM/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix1sS2aM/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix1sS2aM/resources/engine/aria2.conf'
+}
+[2026-01-04 22:58:25.441] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 22:58:25.442] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 22:58:30.049] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://211.75.205.188:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://177.139.47.18:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.248:1337/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://retracker.lanta.me:2710/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n'
+]
+[2026-01-04 23:05:58.456] [info]  [Motrix] Logger init
+[2026-01-04 23:05:58.469] [warn]  [Motrix] Logger init
+[2026-01-04 23:05:58.649] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 23:05:59.079] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixM1awpj/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixM1awpj/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixM1awpj/resources/engine/aria2.conf'
+}
+[2026-01-04 23:06:00.936] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 23:06:00.937] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 23:15:16.198] [info]  [Motrix] Logger init
+[2026-01-04 23:15:16.211] [warn]  [Motrix] Logger init
+[2026-01-04 23:15:16.397] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 23:15:16.820] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixui4mS8/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixui4mS8/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixui4mS8/resources/engine/aria2.conf'
+}
+[2026-01-04 23:15:18.670] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 23:15:18.672] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 23:18:52.798] [info]  [Motrix] Logger init
+[2026-01-04 23:18:52.811] [warn]  [Motrix] Logger init
+[2026-01-04 23:18:52.989] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 23:18:53.383] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixpw1vy1/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixpw1vy1/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixpw1vy1/resources/engine/aria2.conf'
+}
+[2026-01-04 23:18:55.244] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 23:18:55.245] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 23:21:26.137] [info]  [Motrix] Logger init
+[2026-01-04 23:21:26.149] [warn]  [Motrix] Logger init
+[2026-01-04 23:21:26.340] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 23:21:26.816] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixmhAQML/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixmhAQML/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixmhAQML/resources/engine/aria2.conf'
+}
+[2026-01-04 23:21:28.675] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 23:21:28.675] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-04 23:25:39.073] [info]  [Motrix] Logger init
+[2026-01-04 23:25:39.085] [warn]  [Motrix] Logger init
+[2026-01-04 23:25:39.271] [info]  [Motrix] openedAtLogin: false
+[2026-01-04 23:25:39.707] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixB0Hvza/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixB0Hvza/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixB0Hvza/resources/engine/aria2.conf'
+}
+[2026-01-04 23:25:41.556] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-04 23:25:41.562] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-05 23:00:07.662] [info]  [Motrix] Logger init
+[2026-01-05 23:00:07.674] [warn]  [Motrix] Logger init
+[2026-01-05 23:00:07.859] [info]  [Motrix] openedAtLogin: false
+[2026-01-05 23:00:08.328] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixd69kuG/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixd69kuG/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixd69kuG/resources/engine/aria2.conf'
+}
+[2026-01-05 23:00:09.705] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://187.57.132.20:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://185.216.179.62:25/announce\n' +
+    '\n' +
+    'udp://176.99.7.59:6969/announce\n' +
+    '\n' +
+    'udp://103.251.166.126:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://retracker.lanta.me:2710/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n'
+]
+[2026-01-05 23:00:10.194] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-05 23:00:10.195] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-05 23:18:45.246] [info]  [Motrix] Logger init
+[2026-01-05 23:18:45.260] [warn]  [Motrix] Logger init
+[2026-01-05 23:18:45.465] [info]  [Motrix] openedAtLogin: false
+[2026-01-05 23:18:45.933] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixRANRlK/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixRANRlK/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixRANRlK/resources/engine/aria2.conf'
+}
+[2026-01-05 23:18:47.787] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-05 23:18:47.789] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 13:54:28.246] [info]  [Motrix] Logger init
+[2026-01-06 13:54:28.260] [warn]  [Motrix] Logger init
+[2026-01-06 13:54:28.445] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 13:54:28.878] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixzmqNtz/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixzmqNtz/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixzmqNtz/resources/engine/aria2.conf'
+}
+[2026-01-06 13:54:30.740] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 13:54:30.741] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 13:54:47.202] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://211.75.205.189:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://144.126.245.19:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.187:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://177.173.31.33:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://185.216.179.62:25/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tr4ck3r.duckdns.org:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://retracker.lanta.me:2710/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n'
+]
+[2026-01-06 23:05:53.831] [info]  [Motrix] Logger init
+[2026-01-06 23:05:53.845] [warn]  [Motrix] Logger init
+[2026-01-06 23:05:54.025] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 23:05:54.495] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixaFvR5q/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixaFvR5q/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixaFvR5q/resources/engine/aria2.conf'
+}
+[2026-01-06 23:05:56.351] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 23:05:56.354] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 23:26:27.099] [info]  [Motrix] Logger init
+[2026-01-06 23:26:27.112] [warn]  [Motrix] Logger init
+[2026-01-06 23:26:27.306] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 23:26:27.751] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixtuDrLc/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixtuDrLc/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixtuDrLc/resources/engine/aria2.conf'
+}
+[2026-01-06 23:26:29.624] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 23:26:29.625] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 23:51:04.218] [info]  [Motrix] Logger init
+[2026-01-06 23:51:04.232] [warn]  [Motrix] Logger init
+[2026-01-06 23:51:04.422] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 23:51:04.856] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixJofho6/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixJofho6/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixJofho6/resources/engine/aria2.conf'
+}
+[2026-01-06 23:51:06.717] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 23:51:06.718] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 23:54:16.620] [info]  [Motrix] Logger init
+[2026-01-06 23:54:16.630] [warn]  [Motrix] Logger init
+[2026-01-06 23:54:16.781] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 23:54:17.117] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixYod6S9/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixYod6S9/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixYod6S9/resources/engine/aria2.conf'
+}
+[2026-01-06 23:54:18.961] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 23:54:18.964] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-06 23:57:23.008] [info]  [Motrix] Logger init
+[2026-01-06 23:57:23.018] [warn]  [Motrix] Logger init
+[2026-01-06 23:57:23.177] [info]  [Motrix] openedAtLogin: false
+[2026-01-06 23:57:23.512] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixGU9k6Y/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixGU9k6Y/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixGU9k6Y/resources/engine/aria2.conf'
+}
+[2026-01-06 23:57:25.348] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-06 23:57:25.349] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 00:04:17.211] [info]  [Motrix] Logger init
+[2026-01-07 00:04:17.232] [warn]  [Motrix] Logger init
+[2026-01-07 00:04:17.448] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 00:04:17.872] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixUHdjgy/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixUHdjgy/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixUHdjgy/resources/engine/aria2.conf'
+}
+[2026-01-07 00:04:19.736] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 00:04:19.738] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 00:06:51.571] [info]  [Motrix] Logger init
+[2026-01-07 00:06:51.581] [warn]  [Motrix] Logger init
+[2026-01-07 00:06:51.768] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 00:06:52.190] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixKwyuA7/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixKwyuA7/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixKwyuA7/resources/engine/aria2.conf'
+}
+[2026-01-07 00:06:54.036] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 00:06:54.039] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 00:16:16.375] [info]  [Motrix] Logger init
+[2026-01-07 00:16:16.390] [warn]  [Motrix] Logger init
+[2026-01-07 00:16:16.727] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 00:16:17.264] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixu11cgp/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixu11cgp/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixu11cgp/resources/engine/aria2.conf'
+}
+[2026-01-07 00:16:19.164] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 00:16:19.166] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 00:17:51.489] [info]  [Motrix] Logger init
+[2026-01-07 00:17:51.501] [warn]  [Motrix] Logger init
+[2026-01-07 00:17:51.754] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 00:17:52.300] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix6bMLPn/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix6bMLPn/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix6bMLPn/resources/engine/aria2.conf'
+}
+[2026-01-07 00:17:54.165] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 00:17:54.165] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 13:54:55.914] [info]  [Motrix] Logger init
+[2026-01-07 13:54:55.926] [warn]  [Motrix] Logger init
+[2026-01-07 13:54:56.092] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 13:54:56.444] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixZHtKSN/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixZHtKSN/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixZHtKSN/resources/engine/aria2.conf'
+}
+[2026-01-07 13:54:58.280] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 13:54:58.280] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 22:59:12.096] [info]  [Motrix] Logger init
+[2026-01-07 22:59:12.109] [warn]  [Motrix] Logger init
+[2026-01-07 22:59:12.285] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 22:59:12.724] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixnDuslg/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixnDuslg/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixnDuslg/resources/engine/aria2.conf'
+}
+[2026-01-07 22:59:13.975] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://177.139.47.92:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://185.216.179.62:25/announce\n' +
+    '\n' +
+    'udp://176.99.7.59:6969/announce\n' +
+    '\n' +
+    'udp://103.251.166.126:6969/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://wepzone.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://d40969.acod.regrucolo.ru:6969/announce\n' +
+    '\n' +
+    'udp://bt.bontal.net:6969/announce\n' +
+    '\n'
+]
+[2026-01-07 22:59:14.590] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 22:59:14.596] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:10:47.246] [info]  [Motrix] Logger init
+[2026-01-07 23:10:47.257] [warn]  [Motrix] Logger init
+[2026-01-07 23:10:47.446] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:10:47.845] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixqoqo6k/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixqoqo6k/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixqoqo6k/resources/engine/aria2.conf'
+}
+[2026-01-07 23:10:49.708] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:10:49.709] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:32:15.610] [info]  [Motrix] Logger init
+[2026-01-07 23:32:15.622] [warn]  [Motrix] Logger init
+[2026-01-07 23:32:15.800] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:32:16.212] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixvQjhHt/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixvQjhHt/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixvQjhHt/resources/engine/aria2.conf'
+}
+[2026-01-07 23:32:18.057] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:32:18.058] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:35:51.144] [info]  [Motrix] Logger init
+[2026-01-07 23:35:51.155] [warn]  [Motrix] Logger init
+[2026-01-07 23:35:51.308] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:35:51.661] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixwED6JE/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixwED6JE/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixwED6JE/resources/engine/aria2.conf'
+}
+[2026-01-07 23:35:53.505] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:35:53.506] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:45:31.070] [info]  [Motrix] Logger init
+[2026-01-07 23:45:31.082] [warn]  [Motrix] Logger init
+[2026-01-07 23:45:31.282] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:45:31.661] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixWMEtn5/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixWMEtn5/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixWMEtn5/resources/engine/aria2.conf'
+}
+[2026-01-07 23:45:33.514] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:45:33.515] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:53:34.619] [info]  [Motrix] Logger init
+[2026-01-07 23:53:34.628] [warn]  [Motrix] Logger init
+[2026-01-07 23:53:34.782] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:53:35.140] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix7Ev0MR/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix7Ev0MR/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix7Ev0MR/resources/engine/aria2.conf'
+}
+[2026-01-07 23:53:36.976] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:53:36.977] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-07 23:57:19.649] [info]  [Motrix] Logger init
+[2026-01-07 23:57:19.658] [warn]  [Motrix] Logger init
+[2026-01-07 23:57:19.812] [info]  [Motrix] openedAtLogin: false
+[2026-01-07 23:57:20.189] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixjJ2dNB/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixjJ2dNB/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixjJ2dNB/resources/engine/aria2.conf'
+}
+[2026-01-07 23:57:22.037] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-07 23:57:22.038] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 13:53:15.255] [info]  [Motrix] Logger init
+[2026-01-08 13:53:15.268] [warn]  [Motrix] Logger init
+[2026-01-08 13:53:15.440] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 13:53:15.854] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix1qMM0a/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix1qMM0a/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix1qMM0a/resources/engine/aria2.conf'
+}
+[2026-01-08 13:53:17.040] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'http://186.10.170.186:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://44.30.4.4:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://144.126.245.19:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://54.36.179.216:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://wepzone.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://d40969.acod.regrucolo.ru:6969/announce\n' +
+    '\n' +
+    'udp://bt.bontal.net:6969/announce\n' +
+    '\n'
+]
+[2026-01-08 13:53:17.049] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2026-01-08 13:53:17.691] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 13:53:17.692] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 18:35:10.208] [info]  [Motrix] Logger init
+[2026-01-08 18:35:10.221] [warn]  [Motrix] Logger init
+[2026-01-08 18:35:10.410] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 18:35:10.814] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixqQ8lH9/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixqQ8lH9/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixqQ8lH9/resources/engine/aria2.conf'
+}
+[2026-01-08 18:35:12.662] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 18:35:12.662] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 18:36:11.605] [info]  [Motrix] Logger init
+[2026-01-08 18:36:11.618] [warn]  [Motrix] Logger init
+[2026-01-08 18:36:11.799] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 18:36:12.151] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixuSAYrj/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixuSAYrj/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixuSAYrj/resources/engine/aria2.conf'
+}
+[2026-01-08 18:36:13.981] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 18:36:13.983] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 20:04:25.098] [info]  [Motrix] Logger init
+[2026-01-08 20:04:25.110] [warn]  [Motrix] Logger init
+[2026-01-08 20:04:25.291] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 20:04:25.672] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix2ybRkr/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix2ybRkr/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix2ybRkr/resources/engine/aria2.conf'
+}
+[2026-01-08 20:04:27.514] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 20:04:27.515] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 22:25:13.979] [info]  [Motrix] Logger init
+[2026-01-08 22:25:13.990] [warn]  [Motrix] Logger init
+[2026-01-08 22:25:14.173] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 22:25:14.560] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixGBpT6Y/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixGBpT6Y/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixGBpT6Y/resources/engine/aria2.conf'
+}
+[2026-01-08 22:25:16.404] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 22:25:16.405] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 22:30:26.346] [info]  [Motrix] Logger init
+[2026-01-08 22:30:26.358] [warn]  [Motrix] Logger init
+[2026-01-08 22:30:26.531] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 22:30:26.889] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixQ6USdl/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixQ6USdl/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixQ6USdl/resources/engine/aria2.conf'
+}
+[2026-01-08 22:30:28.727] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 22:30:28.728] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 22:41:29.435] [info]  [Motrix] Logger init
+[2026-01-08 22:41:29.447] [warn]  [Motrix] Logger init
+[2026-01-08 22:41:29.605] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 22:41:29.985] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixAbGKCW/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixAbGKCW/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixAbGKCW/resources/engine/aria2.conf'
+}
+[2026-01-08 22:41:31.833] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 22:41:31.833] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 23:08:00.869] [info]  [Motrix] Logger init
+[2026-01-08 23:08:00.884] [warn]  [Motrix] Logger init
+[2026-01-08 23:08:01.063] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 23:08:01.482] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixM2s5sZ/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixM2s5sZ/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixM2s5sZ/resources/engine/aria2.conf'
+}
+[2026-01-08 23:08:03.333] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 23:08:03.334] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-08 23:39:24.048] [info]  [Motrix] Logger init
+[2026-01-08 23:39:24.057] [warn]  [Motrix] Logger init
+[2026-01-08 23:39:24.203] [info]  [Motrix] openedAtLogin: false
+[2026-01-08 23:39:24.460] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixW994VP/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixW994VP/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixW994VP/resources/engine/aria2.conf'
+}
+[2026-01-08 23:39:26.292] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-08 23:39:26.293] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 06:40:01.907] [info]  [Motrix] Logger init
+[2026-01-09 06:40:01.920] [warn]  [Motrix] Logger init
+[2026-01-09 06:40:02.099] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 06:40:02.496] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixPhJrQ0/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixPhJrQ0/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixPhJrQ0/resources/engine/aria2.conf'
+}
+[2026-01-09 06:40:03.730] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'http://186.10.170.186:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://44.30.4.4:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://144.126.245.19:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://54.36.179.216:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://wepzone.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker3.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n'
+]
+[2026-01-09 06:40:04.347] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 06:40:04.348] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 07:05:13.986] [info]  [Motrix] Logger init
+[2026-01-09 07:05:14.000] [warn]  [Motrix] Logger init
+[2026-01-09 07:05:14.198] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 07:05:14.675] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixhFg9d9/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixhFg9d9/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixhFg9d9/resources/engine/aria2.conf'
+}
+[2026-01-09 07:05:16.542] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 07:05:16.545] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 12:04:27.722] [info]  [Motrix] Logger init
+[2026-01-09 12:04:27.737] [warn]  [Motrix] Logger init
+[2026-01-09 12:04:27.932] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 12:04:28.368] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixDH6BqA/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixDH6BqA/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixDH6BqA/resources/engine/aria2.conf'
+}
+[2026-01-09 12:04:30.221] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 12:04:30.221] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 13:52:40.159] [info]  [Motrix] Logger init
+[2026-01-09 13:52:40.172] [warn]  [Motrix] Logger init
+[2026-01-09 13:52:40.358] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 13:52:40.827] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixqQN7dN/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixqQN7dN/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixqQN7dN/resources/engine/aria2.conf'
+}
+[2026-01-09 13:52:42.685] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 13:52:42.686] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 17:25:36.248] [info]  [Motrix] Logger init
+[2026-01-09 17:25:36.261] [warn]  [Motrix] Logger init
+[2026-01-09 17:25:36.449] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 17:25:57.611] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixGqlOYa/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixGqlOYa/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixGqlOYa/resources/engine/aria2.conf'
+}
+[2026-01-09 17:25:59.475] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 17:25:59.477] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 17:57:26.321] [info]  [Motrix] Logger init
+[2026-01-09 17:57:26.333] [warn]  [Motrix] Logger init
+[2026-01-09 17:57:26.515] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 17:57:26.917] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixOLNLzx/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixOLNLzx/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixOLNLzx/resources/engine/aria2.conf'
+}
+[2026-01-09 17:57:28.766] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 17:57:28.766] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 22:08:43.346] [info]  [Motrix] Logger init
+[2026-01-09 22:08:43.359] [warn]  [Motrix] Logger init
+[2026-01-09 22:08:43.539] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 22:08:43.943] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixG6xcNh/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixG6xcNh/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixG6xcNh/resources/engine/aria2.conf'
+}
+[2026-01-09 22:08:45.219] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://84.54.51.78:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://80.71.224.126:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://212.8.249.30:6969/announce\n' +
+    '\n' +
+    'udp://211.97.119.76:6969/announce\n' +
+    '\n' +
+    'udp://185.189.13.108:6969/announce\n' +
+    '\n' +
+    'http://34.66.57.33:11450/announce\n' +
+    '\n' +
+    'http://34.66.57.33:6969/announce\n' +
+    '\n' +
+    'http://167.253.78.20:8080/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonoid.ch:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.therarbg.to:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://open.dstud.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://bt.rer.lol:6969/announce\n' +
+    '\n'
+]
+[2026-01-09 22:08:45.786] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 22:08:45.787] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 22:15:32.599] [info]  [Motrix] Logger init
+[2026-01-09 22:15:32.613] [warn]  [Motrix] Logger init
+[2026-01-09 22:15:32.798] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 22:15:33.238] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixwVqR7T/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixwVqR7T/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixwVqR7T/resources/engine/aria2.conf'
+}
+[2026-01-09 22:15:35.095] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 22:15:35.096] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-09 22:19:57.539] [info]  [Motrix] Logger init
+[2026-01-09 22:19:57.548] [warn]  [Motrix] Logger init
+[2026-01-09 22:19:57.723] [info]  [Motrix] openedAtLogin: false
+[2026-01-09 22:19:58.071] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixDsnsml/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixDsnsml/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixDsnsml/resources/engine/aria2.conf'
+}
+[2026-01-09 22:19:59.922] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-09 22:19:59.924] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-10 06:48:56.806] [info]  [Motrix] Logger init
+[2026-01-10 06:48:56.821] [warn]  [Motrix] Logger init
+[2026-01-10 06:48:56.993] [info]  [Motrix] openedAtLogin: false
+[2026-01-10 06:48:57.372] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix7vXpus/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix7vXpus/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix7vXpus/resources/engine/aria2.conf'
+}
+[2026-01-10 06:48:59.232] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-10 06:48:59.233] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-10 13:13:36.314] [info]  [Motrix] Logger init
+[2026-01-10 13:13:36.327] [warn]  [Motrix] Logger init
+[2026-01-10 13:13:36.503] [info]  [Motrix] openedAtLogin: false
+[2026-01-10 13:13:36.918] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixE8MqFy/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixE8MqFy/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixE8MqFy/resources/engine/aria2.conf'
+}
+[2026-01-10 13:13:38.230] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://132.226.6.145:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://60.249.37.20:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://209.50.255.93:3218/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://144.126.245.19:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://54.36.179.216:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://52.58.128.163:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://107.189.4.235:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://utracker.ghostchu-services.top:6969/announce\n' +
+    '\n' +
+    'udp://tracker3.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tvunderground.org.ru:3218/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n'
+]
+[2026-01-10 13:13:38.767] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-10 13:13:38.768] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-10 20:02:31.391] [info]  [Motrix] Logger init
+[2026-01-10 20:02:31.405] [warn]  [Motrix] Logger init
+[2026-01-10 20:02:31.587] [info]  [Motrix] openedAtLogin: false
+[2026-01-10 20:02:32.030] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix8a1Uft/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix8a1Uft/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix8a1Uft/resources/engine/aria2.conf'
+}
+[2026-01-10 20:02:33.875] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-10 20:02:33.876] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-10 20:39:19.093] [info]  [Motrix] Logger init
+[2026-01-10 20:39:19.108] [warn]  [Motrix] Logger init
+[2026-01-10 20:39:19.310] [info]  [Motrix] openedAtLogin: false
+[2026-01-10 20:39:19.805] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixcGG70K/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixcGG70K/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixcGG70K/resources/engine/aria2.conf'
+}
+[2026-01-10 20:39:21.663] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-10 20:39:21.665] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 06:48:53.235] [info]  [Motrix] Logger init
+[2026-01-11 06:48:53.250] [warn]  [Motrix] Logger init
+[2026-01-11 06:48:53.478] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 06:48:53.923] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixniRgc8/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixniRgc8/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixniRgc8/resources/engine/aria2.conf'
+}
+[2026-01-11 06:48:55.215] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://132.226.6.145:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://60.249.37.20:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://209.50.255.93:3218/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://144.126.245.19:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://54.36.179.216:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://52.58.128.163:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://107.189.4.235:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://utracker.ghostchu-services.top:6969/announce\n' +
+    '\n' +
+    'udp://tracker3.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tvunderground.org.ru:3218/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n'
+]
+[2026-01-11 06:48:55.786] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 06:48:55.788] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 13:18:03.928] [info]  [Motrix] Logger init
+[2026-01-11 13:18:03.940] [warn]  [Motrix] Logger init
+[2026-01-11 13:18:04.122] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 13:18:04.539] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix0AYzfz/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix0AYzfz/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix0AYzfz/resources/engine/aria2.conf'
+}
+[2026-01-11 13:18:06.397] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 13:18:06.399] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 13:54:12.074] [info]  [Motrix] Logger init
+[2026-01-11 13:54:12.089] [warn]  [Motrix] Logger init
+[2026-01-11 13:54:12.315] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 13:54:12.790] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixZSXNJg/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixZSXNJg/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixZSXNJg/resources/engine/aria2.conf'
+}
+[2026-01-11 13:54:14.652] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 13:54:14.653] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 16:26:46.011] [info]  [Motrix] Logger init
+[2026-01-11 16:26:46.027] [warn]  [Motrix] Logger init
+[2026-01-11 16:26:46.239] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 16:26:46.740] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixZIW0MD/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixZIW0MD/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixZIW0MD/resources/engine/aria2.conf'
+}
+[2026-01-11 16:26:48.603] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 16:26:48.604] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 16:59:03.912] [info]  [Motrix] Logger init
+[2026-01-11 16:59:03.927] [warn]  [Motrix] Logger init
+[2026-01-11 16:59:04.191] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 16:59:04.626] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixn1CWPK/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixn1CWPK/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixn1CWPK/resources/engine/aria2.conf'
+}
+[2026-01-11 16:59:06.489] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 16:59:06.490] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 17:16:25.575] [info]  [Motrix] Logger init
+[2026-01-11 17:16:25.589] [warn]  [Motrix] Logger init
+[2026-01-11 17:16:25.809] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 17:16:26.277] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixC9GnLX/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixC9GnLX/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixC9GnLX/resources/engine/aria2.conf'
+}
+[2026-01-11 17:16:28.141] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 17:16:28.150] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 17:22:39.985] [info]  [Motrix] Logger init
+[2026-01-11 17:22:40.002] [warn]  [Motrix] Logger init
+[2026-01-11 17:23:04.072] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 17:23:04.582] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix8U22NE/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix8U22NE/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix8U22NE/resources/engine/aria2.conf'
+}
+[2026-01-11 17:23:06.449] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 17:23:06.450] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-11 22:46:11.574] [info]  [Motrix] Logger init
+[2026-01-11 22:46:11.591] [warn]  [Motrix] Logger init
+[2026-01-11 22:46:11.864] [info]  [Motrix] openedAtLogin: false
+[2026-01-11 22:46:12.376] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix1F4dR3/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix1F4dR3/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix1F4dR3/resources/engine/aria2.conf'
+}
+[2026-01-11 22:46:13.552] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://132.226.6.145:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://211.75.205.189:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://209.50.255.93:3218/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://84.54.51.78:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://60.249.37.20:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://107.189.4.235:1337/announce\n' +
+    '\n' +
+    'udp://23.153.248.128:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://utracker.ghostchu-services.top:6969/announce\n' +
+    '\n' +
+    'udp://tracker3.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tvunderground.org.ru:3218/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrust-demo.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.therarbg.to:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n'
+]
+[2026-01-11 22:46:14.222] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-11 22:46:14.222] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-13 13:33:05.136] [info]  [Motrix] Logger init
+[2026-01-13 13:33:05.148] [warn]  [Motrix] Logger init
+[2026-01-13 13:33:05.313] [info]  [Motrix] openedAtLogin: false
+[2026-01-13 13:33:05.754] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixcaeK04/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixcaeK04/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixcaeK04/resources/engine/aria2.conf'
+}
+[2026-01-13 13:33:07.600] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-13 13:33:07.601] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-13 13:34:42.646] [info]  [Motrix] Logger init
+[2026-01-13 13:34:42.660] [warn]  [Motrix] Logger init
+[2026-01-13 13:34:42.839] [info]  [Motrix] openedAtLogin: false
+[2026-01-13 13:34:43.277] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixRWhXGw/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixRWhXGw/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixRWhXGw/resources/engine/aria2.conf'
+}
+[2026-01-13 13:34:44.403] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'http://152.231.114.51:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://147.45.77.75:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://217.156.123.49:1337/announce\n' +
+    '\n' +
+    'http://34.66.57.33:11450/announce\n' +
+    '\n' +
+    'http://211.75.205.188:80/announce\n' +
+    '\n' +
+    'http://95.217.167.10:6969/announce\n' +
+    '\n' +
+    'http://211.75.205.188:6969/announce\n' +
+    '\n' +
+    'http://140.235.237.23:6969/announce\n' +
+    '\n' +
+    'http://45.146.254.59:80/announce\n' +
+    '\n' +
+    'http://193.31.26.113:6969/announce\n' +
+    '\n' +
+    'http://211.97.119.88:2710/announce\n' +
+    '\n' +
+    'udp://23.175.184.30:23333/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.srv00.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.filemail.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://leet-tracker.moe:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce\n' +
+    '\n' +
+    'https://tracker.zhuqiy.com:443/announce\n' +
+    '\n' +
+    'https://tracker.gcrenwp.top:443/announce\n' +
+    '\n' +
+    'https://tracker.cutie.dating:443/announce\n' +
+    '\n' +
+    'https://torrent.tracker.durukanbal.com:443/announce\n' +
+    '\n' +
+    'http://www.genesis-sp.org:2710/announce\n' +
+    '\n' +
+    'http://tracker810.xyz:11450/announce\n' +
+    '\n'
+]
+[2026-01-13 13:34:45.123] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-13 13:34:45.124] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-14 23:41:04.930] [info]  [Motrix] Logger init
+[2026-01-14 23:41:04.942] [warn]  [Motrix] Logger init
+[2026-01-14 23:41:05.118] [info]  [Motrix] openedAtLogin: false
+[2026-01-14 23:41:05.565] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrix6eXjdF/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrix6eXjdF/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrix6eXjdF/resources/engine/aria2.conf'
+}
+[2026-01-14 23:41:06.667] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://132.226.6.145:6969/announce\n' +
+    '\n' +
+    'udp://107.189.7.165:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://209.50.255.93:3218/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://147.45.77.75:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://54.36.179.216:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.25:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://107.189.4.235:1337/announce\n' +
+    '\n' +
+    'udp://111.90.151.241:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://utracker.ghostchu-services.top:6969/announce\n' +
+    '\n' +
+    'udp://tracker3.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tvunderground.org.ru:3218/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.t-1.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.srv00.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.plx.im:6969/announce\n' +
+    '\n' +
+    'udp://tracker.gmi.gd:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker.1h.is:1337/announce\n' +
+    '\n'
+]
+[2026-01-14 23:41:07.407] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-14 23:41:07.416] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2026-01-15 23:09:00.465] [info]  [Motrix] Logger init
+[2026-01-15 23:09:00.478] [warn]  [Motrix] Logger init
+[2026-01-15 23:09:00.640] [info]  [Motrix] openedAtLogin: false
+[2026-01-15 23:09:01.046] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/zly-a/.config/Motrix/logs',
+  'session-path': '/home/zly-a/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_Motrixj55TgF/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_Motrixj55TgF/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_Motrixj55TgF/resources/engine/aria2.conf'
+}
+[2026-01-15 23:09:02.232] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://185.121.168.96:1337/announce\n' +
+    '\n' +
+    'http://152.231.114.51:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:80/announce\n' +
+    '\n' +
+    'udp://193.42.111.57:9337/announce\n' +
+    '\n' +
+    'udp://135.125.236.64:6969/announce\n' +
+    '\n' +
+    'udp://77.91.85.95:6969/announce\n' +
+    '\n' +
+    'udp://43.250.54.137:6969/announce\n' +
+    '\n' +
+    'udp://5.255.124.190:6969/announce\n' +
+    '\n' +
+    'udp://211.75.210.221:6969/announce\n' +
+    '\n' +
+    'udp://34.66.57.33:1337/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://177.172.67.13:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://37.235.176.37:2710/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://212.8.249.30:6969/announce\n' +
+    '\n' +
+    'udp://185.216.179.62:25/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.myporn.club:9337/announce\n' +
+    '\n' +
+    'udp://tracker.tryhackx.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.srv00.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.qu.ax:6969/announce\n' +
+    '\n' +
+    'udp://tracker.fnix.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://t.overflow.biz:6969/announce\n' +
+    '\n' +
+    'udp://run.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://retracker.lanta.me:2710/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n'
+]
+[2026-01-15 23:09:02.896] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2026-01-15 23:09:02.897] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed

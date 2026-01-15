@@ -1,0 +1,47 @@
+{
+   "checksum": "54cd32517768274e39513644f1d41c23",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13412964603044839",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13412964804994525",
+            "date_last_used": "0",
+            "guid": "c489cc94-5e86-4f75-b017-aacf4bbcb661",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub 文件下载加速代理 - GitHub Proxy",
+            "type": "url",
+            "url": "https://github.akams.cn/"
+         } ],
+         "date_added": "13412964603044839",
+         "date_last_used": "0",
+         "date_modified": "13412964804994525",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13412964603044839",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

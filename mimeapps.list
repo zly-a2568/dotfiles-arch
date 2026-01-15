@@ -1,0 +1,28 @@
+[Default Applications]
+inode/directory=thunar.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/x-zerosize=nvim.desktop
+image/svg+xml=swappy.desktop
+application/x-pak=org.gnome.FileRoller.desktop
+image/x-xcursor=be.alexandervanhee.gradia.desktop
+application/octet-stream=org.gnome.FileRoller.desktop
+
+[Added Associations]
+text/x-csrc=vim.desktop;com.github.marktext.marktext.desktop;org.gnome.TextEditor.desktop;
+image/vnd.microsoft.icon=org.gnome.Loupe.desktop;userapp-swappy-KJJYH3.desktop;
+image/jpeg=swappy.desktop;
+image/gif=userapp-swappy-KJJYH3.desktop;
+text/plain=org.gnome.TextEditor.desktop;vim.desktop;com.visualstudio.code.desktop;
+application/x-zerosize=io.github.fabrialberio.pinapp.desktop;vim.desktop;nvim.desktop;
+image/svg+xml=swappy.desktop;
+application/x-shellscript=vim.desktop;kitty-open.desktop;org.gnome.TextEditor.desktop;
+application/x-pak=org.gnome.FileRoller.desktop;
+application/x-desktop=vim.desktop;
+application/x-msdownload=wine.desktop;
+image/x-xcursor=be.alexandervanhee.gradia.desktop;
+application/json=org.gnome.TextEditor.desktop;vim.desktop;
+application/octet-stream=org.gnome.FileRoller.desktop;

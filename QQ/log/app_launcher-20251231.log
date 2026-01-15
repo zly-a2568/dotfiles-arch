@@ -1,0 +1,19 @@
+[19b74fd2af3][2025/12/31 23:18:27][INFO] [QQEX] process.execPath:/tmp/.mount_QQ_3.2qELBvg/qq
+[19b74fd2af3][2025/12/31 23:18:27][INFO] [QQEX] process.execPath:/tmp/.mount_QQ_3.2qELBvg/qq
+[19b74fd2af3][2025/12/31 23:18:27][INFO] 不存在 /home/zly-a/.config/QQ/versions/config.json，将自动创建。内容为：
+{
+  "baseVersion": "3.2.22-42941",
+  "curVersion": "3.2.22-42941",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "42941",
+  "unzipRetryCount": 0
+}
+[19b74fd2af3][2025/12/31 23:18:27][INFO] launcherCounts 写入成功: 1
+[19b74fd2af3][2025/12/31 23:18:27][INFO] /home/zly-a/.config/QQ/versions/3.2.22-42941.zip 不存在，无需执行解压操作
+[19b74fd2af3][2025/12/31 23:18:27][INFO] use path/tmp/.mount_QQ_3.2qELBvg/resources/app/application.asar
+[19b74fd2af3][2025/12/31 23:18:27][INFO] 从安装目录加载主进程代码: /tmp/.mount_QQ_3.2qELBvg/resources/app/application.asar/background.js
+[19b74fd2af3][2025/12/31 23:18:27][INFO] 
+---------- 成功的分割线 ----------
+
+

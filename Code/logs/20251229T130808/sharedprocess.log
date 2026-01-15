@@ -1,0 +1,5 @@
+2025-12-29 13:08:10.342 [error] Error: ENOENT: no such file or directory, access '/run/user/1000/wayland-0'
+    at async Object.access (node:internal/original-fs/promises:609:10)
+    at async L3 (file:///home/zly-a/vscode/VSCode-linux-x64/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:9395)
+    at async Promise.all (index 1)
+    at async pS.n (file:///home/zly-a/vscode/VSCode-linux-x64/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:116:70058)

@@ -1,0 +1,13 @@
+2025-12-29 13:08:11.055 [info] Extension host with pid 3468 started
+2025-12-29 13:08:11.222 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-29 13:08:11.223 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-29 13:08:11.303 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-29 13:08:11.304 [error] Failed to load translations for vscode.github-authentication from file:///home/zly-a/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.107.2025121009/translations/extensions/vscode.github-authentication.i18n.json: Canceled
+2025-12-29 13:08:11.304 [error] Failed to load translations for vscode.emmet from file:///home/zly-a/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.107.2025121009/translations/extensions/vscode.emmet.i18n.json: Canceled
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: local server
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: url handler
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: device code
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: personal access token
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: Google
+2025-12-29 13:08:11.355 [warning] Using default string since no string found in i18n bundle that has the key: Apple
+2025-12-29 13:08:11.400 [info] Extension host with pid 3468 exiting with code 0
