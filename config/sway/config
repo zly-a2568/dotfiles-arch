@@ -1,0 +1,265 @@
+# sway config - ported from Hyprland (JaKooLit dots)
+# ~/.config/sway/config
+#
+# Many Hyprland dispatches (master layout, groups, pseudo) have no stock sway
+# equivalent and are commented out below. Special workspace is emulated with
+# the scratchpad. Read the comments to adjust to your taste.
+
+set $mod Mod4
+
+# ---------------- Applications (from 01-UserDefaults.conf) ----------------
+set $term kitty
+set $files GTK_THEME=WhiteSur-Dark GDK_DPI_SCALE=0.9 nautilus --new-window
+set $menu fuzzel  
+set $browser xdg-open "https://"
+# [invalid] 以下变量指向已删除的 ~/.config/hypr，且无任何生效引用
+set $scripts $HOME/.config/sway/scripts
+# set $UserScripts $HOME/.config/hypr/UserScripts
+
+# ---------------- General settings ----------------
+# gaps require sway >= 1.9 (or the community "sway-gaps" fork)
+gaps inner 4
+gaps outer 2
+
+floating_modifier $mod
+default_floating_border pixel 10
+default_border pixel 10
+
+# focus follows mouse
+focus_follows_mouse yes
+mouse_warping none
+
+# disable titlebars on tiling windows, keep them on floating
+for_window [app_id=".*"] border pixel 2
+
+# ---------------- Startup ----------------
+exec awww-daemon
+exec fcitx5 -d
+exec /home/zly/AppImages/DevSidecar-2.2.0-linux-x86_64.AppImage 
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+exec waybar -c /home/zly/.config/waybar/config.jsonc -s /home/zly/.config/waybar/style.css
+exec dunst
+exec wl-paste --watch cliphist store
+exec wl-paste --watch xclip -selection clipboard
+exec wl-paste -p --watch xclip -selection primary
+# (已移除自适应壁纸配色监听)
+exec_always --no-startup-id {
+    # uncomment to autostart your stuff, e.g.:
+    # swaync &
+    # waybar &
+}
+
+# ============================================================
+#  KEYBINDINGS  (mirrors ~/.config/hypr/configs/Keybinds.conf)
+# ============================================================
+
+# --- Launcher / common ---
+# $mod D  -> app launcher
+bindsym $mod+d exec $menu
+# $mod Return -> terminal
+bindsym $mod+Return exec $term
+# $mod E -> file manager
+bindsym $mod+e exec $files
+# $mod B -> browser
+bindsym $mod+b exec $browser
+# $mod A -> desktop overview (no AGS/Quickshell in sway; open launcher as fallback)
+bindsym $mod+a exec $menu
+
+# --- Helpers that rely on Hyprland scripts; kept functional where possible ---
+# $mod T  global theme switcher (wallust) - Hyprland only
+# bindsym $mod+t exec $scripts/ThemeChanger.sh
+# $mod H  key hints
+# bindsym $mod+h exec $scripts/KeyHints.sh
+# $mod+S  web search (rofi)
+# [invalid] $mod+s -> $UserScripts/RofiSearch.sh (hypr/UserScripts 已删除, rofi 未安装)
+# $mod Ctrl+S  window switcher
+# [invalid] $mod+Ctrl+s -> rofi -show window (rofi 未安装)
+# $mod+V  clipboard manager
+# [invalid] $mod+v -> $scripts/ClipManager.sh (hypr/scripts 已删除)
+# $mod W  wallpaper select (Hyprland only)
+# bindsym $mod+w exec $UserScripts/WallpaperSelect.sh
+# $mod Shift+W  wallpaper effects (Hyprland only)
+# bindsym $mod+Shift+w exec $UserScripts/WallpaperEffects.sh
+# $mod Ctrl+O  toggle active window opacity (Hyprland only)
+# $mod Shift+K  search keybinds
+# bindsym $mod+Shift+k exec $scripts/KeyBinds.sh
+
+# --- Window state ---
+# $mod Shift+F  fullscreen
+bindsym $mod+Shift+f fullscreen
+# $mod Ctrl+F  maximize (sway has no separate maximize; use fullscreen)
+bindsym $mod+Ctrl+f fullscreen
+# $mod Space  toggle floating
+bindsym $mod+space floating toggle
+# $mod Alt+Space  float all (no direct equivalent; toggles focus to floating)
+# $mod Shift+Return  dropdown terminal (Hyprland only)
+# bindsym $mod+Shift+Return exec $scripts/Dropterminal.sh $term
+
+# --- Layout (sway stock: tabbed/stacking/split) ---
+# $mod Alt+L  toggle master/dwindle -> cycle through layouts instead
+bindsym $mod+Alt+l layout toggle tabbed splitv splith stacking
+bindsym $mod+H split horizontal
+bindsym $mod+V split vertical
+# $mod I  add master / $mod Ctrl+D remove master / $mod Ctrl+Return swap master
+#   -> Hyprland master layout; not available in stock sway. Emulate "swap with master"
+#      using layout tabbed as a rough stand-in:
+# bindsym $mod+i layout tabbed
+# bindsym $mod+Ctrl+Return layout toggle split
+
+# --- Cycle windows ---
+bindsym Alt+Tab focus next
+bindsym Alt+Shift+Tab focus prev
+
+# --- Special workspace  ->  scratchpad ---
+# $mod U  toggle special workspace
+bindsym $mod+u scratchpad show
+# $mod Shift+U  move to special workspace
+bindsym $mod+Shift+u move window to scratchpad
+
+# --- Move focus with arrows ---
+bindsym $mod+Left  focus left
+bindsym $mod+Right focus right
+bindsym $mod+Up    focus up
+bindsym $mod+Down  focus down
+
+# --- Move window with $mod Ctrl + arrows ---
+bindsym $mod+Ctrl+Left  move left
+bindsym $mod+Ctrl+Right move right
+bindsym $mod+Ctrl+Up    move up
+bindsym $mod+Ctrl+Down  move down
+
+# --- Swap window with $mod Alt + arrows (no stock sway equivalent) ---
+# bindsym $mod+Alt+Left  ...  (use `swap container with` against a mark if needed)
+
+# --- Resize with $mod Shift + arrows ---
+bindsym $mod+Shift+Left  resize shrink width  50px
+bindsym $mod+Shift+Right resize grow   width  50px
+bindsym $mod+Shift+Up    resize grow   height 50px
+bindsym $mod+Shift+Down  resize shrink height 50px
+
+# --- System ---
+# $mod Q  close window
+bindsym $mod+q kill
+# $mod R  reload sway config
+bindsym $mod+r reload
+
+bindsym $mod+p exec cliphist list | rofi -dmenu -i | cliphist decode | wl-copy 
+
+bindsym $mod+w exec $scripts/ChangeWallpaper.sh
+# $mod Shift+Q  terminate process (use xkill-like: kill directly)
+# bindsym $mod+Shift+q exec $scripts/KillActiveProcess.sh
+# Ctrl+Alt+Delete  exit sway
+# [invalid] Ctrl+Alt+Delete -> swaymsg exit && ... (命令无效, @docmirror 未运行)
+# Ctrl+Alt+L  lock screen
+# [invalid] Ctrl+Alt+l -> $scripts/LockScreen.sh (hypr/scripts 已删除)
+# Ctrl+Alt+P  power menu
+# [invalid] Ctrl+Alt+p -> $scripts/Wlogout.sh (hypr/scripts 已删除, wlogout/swaync 未安装)
+# $mod Shift+N  notification panel (swaync)
+# [invalid] $mod+Shift+n -> swaync-client (swaync 未安装)
+# $mod Shift+E  quick settings (Hyprland only)
+# bindsym $mod+Shift+e exec $scripts/Kool_Quick_Settings.sh
+
+# --- Screenshots (grim + slurp) ---
+# $mod Print  full screen
+bindsym $mod+Print exec grim ~/Pictures/Screenshot-$(date +%Y%m%d-%H%M%S).png
+# $mod Shift+Print  area
+bindsym $mod+Shift+Print exec grim -g "$(slurp)" ~/Pictures/Screenshot-$(date +%Y%m%d-%H%M%S).png
+# $mod Ctrl+Print  in 5s
+bindsym $mod+Ctrl+Print exec sh -c 'sleep 5; grim ~/Pictures/Screenshot-$(date +%Y%m%d-%H%M%S).png'
+# $mod Ctrl+Shift+Print  in 10s
+bindsym $mod+Ctrl+Shift+Print exec sh -c 'sleep 10; grim ~/Pictures/Screenshot-$(date +%Y%m%d-%H%M%S).png'
+# Alt+Print  active window
+bindsym Alt+Print exec sh -c 'grim -g "$(swaymsg -t get_tree | jq -r ".. | select(.type?) | select(.focused==true).rect | \"\(.x),\(.y) \(.width)x\(.height)\"")" ~/Pictures/Screenshot-$(date +%Y%m%d-%H%M%S).png'
+# $mod Shift+S  swappy
+# [invalid] $mod+Shift+s -> swappy (swappy 未安装)
+
+# --- Media / special keys ---
+bindsym --locked XF86AudioRaiseVolume exec wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+
+bindsym --locked XF86AudioLowerVolume exec wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-
+bindsym --locked XF86AudioMute exec wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle
+bindsym --locked XF86AudioMicMute exec wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle
+bindsym XF86AudioPlay exec playerctl play-pause
+bindsym XF86AudioNext exec playerctl next
+bindsym XF86AudioPrev exec playerctl previous
+bindsym XF86AudioStop exec playerctl stop
+# [invalid] XF86MonBrightnessUp -> brightnessctl (brightnessctl 未安装)
+# [invalid] XF86MonBrightnessDown -> brightnessctl (brightnessctl 未安装)
+bindsym XF86Sleep exec systemctl suspend
+
+# --- Workspaces (code-based, layout independent) ---
+# $mod + [1-0]  switch
+bindcode $mod+10 workspace number 1
+bindcode $mod+11 workspace number 2
+bindcode $mod+12 workspace number 3
+bindcode $mod+13 workspace number 4
+bindcode $mod+14 workspace number 5
+bindcode $mod+15 workspace number 6
+bindcode $mod+16 workspace number 7
+bindcode $mod+17 workspace number 8
+bindcode $mod+18 workspace number 9
+bindcode $mod+19 workspace number 10
+
+# $mod Shift + [1-0]  move to workspace (and follow)
+bindcode $mod+Shift+10 move container to workspace number 1; workspace number 1
+bindcode $mod+Shift+11 move container to workspace number 2; workspace number 2
+bindcode $mod+Shift+12 move container to workspace number 3; workspace number 3
+bindcode $mod+Shift+13 move container to workspace number 4; workspace number 4
+bindcode $mod+Shift+14 move container to workspace number 5; workspace number 5
+bindcode $mod+Shift+15 move container to workspace number 6; workspace number 6
+bindcode $mod+Shift+16 move container to workspace number 7; workspace number 7
+bindcode $mod+Shift+17 move container to workspace number 8; workspace number 8
+bindcode $mod+Shift+18 move container to workspace number 9; workspace number 9
+bindcode $mod+Shift+19 move container to workspace number 10; workspace number 10
+
+# $mod Ctrl + [1-0]  move silently
+bindcode $mod+Ctrl+10 move container to workspace number 1
+bindcode $mod+Ctrl+11 move container to workspace number 2
+bindcode $mod+Ctrl+12 move container to workspace number 3
+bindcode $mod+Ctrl+13 move container to workspace number 4
+bindcode $mod+Ctrl+14 move container to workspace number 5
+bindcode $mod+Ctrl+15 move container to workspace number 6
+bindcode $mod+Ctrl+16 move container to workspace number 7
+bindcode $mod+Ctrl+17 move container to workspace number 8
+bindcode $mod+Ctrl+18 move container to workspace number 9
+bindcode $mod+Ctrl+19 move container to workspace number 10
+
+# $mod Tab / $mod Shift+Tab  next/prev workspace
+bindsym $mod+Tab workspace next
+bindsym $mod+Shift+Tab workspace prev
+# $mod , / $mod .  prev/next workspace
+bindsym $mod+comma workspace prev
+bindsym $mod+period workspace next
+
+# --- Move workspace to output (left/right/up/down) ---
+bindsym $mod+Ctrl+F9 move workspace to output left
+bindsym $mod+Ctrl+F10 move workspace to output right
+bindsym $mod+Ctrl+F11 move workspace to output up
+bindsym $mod+Ctrl+F12 move workspace to output down
+
+# --- Drag floating windows with $mod + LMB/RMB ---
+# floating_modifier above already handles LMB drag; RMB resize:
+bindsym --whole-window $mod+button3 resize
+
+# ---------------- Output / input (auto) ----------------
+# Sway auto-detects monitors. Uncomment to set explicitly:
+
+input type:keyboard {
+    xkb_layout us
+    xkb_options caps:escape
+    repeat_delay 250
+    repeat_rate 45
+}
+
+# ---------------- Status bar ----------------
+#bar {
+#    status_command waybar
+#     position top
+# }
+
+# ---------------- Focus / colors ----------------
+client.focused          #4c7899 #285577 #ffffff #2e9ef4 #285577
+client.focused_inactive #333333 #5f676a #ffffff #484e50 #5f676a
+client.unfocused        #333333 #222222 #888888 #292d2e #222222
+client.urgent           #2f343a #900000 #ffffff #900000 #900000
+client.placeholder      #000000 #0c0c0c #ffffff #000000 #0c0c0c
+client.background       #ffffff

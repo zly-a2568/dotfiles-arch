@@ -1,0 +1,162 @@
+@import "./colors-waybar.css";
+
+
+* {
+    font-family: "JetBrains Mono NFP", monospace;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+    min-height: 25px;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+/* ---- Generic module ---- */
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#wireplumber,
+#tray,
+#mode,
+#idle_inhibitor,
+#power-profiles-daemon,
+#mpd,
+#custom-power,
+#custom-media,
+#window,
+#keyboard-state,
+#language {
+    padding: 0 12px;
+    margin: 2px 0;
+    color: @foreground;
+    background: @background;
+    border:2px solid @color3;
+}
+
+.modules-left > widget:first-child > * {
+    margin-left: 4px;
+}
+.modules-right > widget:last-child > * {
+    margin-right: 4px;
+}
+
+/* Hover feedback */
+#clock:hover,
+#cpu:hover,
+#memory:hover,
+#network:hover,
+#pulseaudio:hover,
+#power-profiles-daemon:hover,
+#custom-power:hover 
+{
+    background: @color4;
+}
+
+#power-profiles-daemon.performance
+{
+    background-color:#ff0000;
+}
+
+#power-profiles-daemon.balanced
+{
+    background-color:#00ff00;
+}
+#power-profiles-daemon.power-saver
+{
+    background-color:#0000ff;
+}
+
+/* ---- Workspaces ---- */
+#workspaces {
+    margin: 2px 4px;
+    background: @background;
+    border:2px solid @color3;
+}
+
+#workspaces button {
+    padding: 0 4px;
+    margin: 0 2px;
+    color: #585b70;
+    background: transparent;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+#workspaces button:hover {
+    color: #cdd6ff;
+    background:rgba(255,255,255,0.2);
+}
+
+#workspaces button.focused,
+#workspaces button.active {
+    color: @color4;
+}
+
+#workspaces button.urgent {
+    color: #f38ba8;
+}
+
+/* ---- Window title ---- */
+#window {
+    margin: 2px 6px;
+    padding: 0 10px;
+    color: @color3;
+}
+
+/* ---- Tray ---- */
+/* GTK 托盘图标不垂直居中，用 margin-top 手动下推修正（偏上就加大正值） */
+#tray {
+    background: @background;
+    margin: 0 2px;
+    margin-top: 4px;
+    margin-bottom:4px;
+    padding: 0 6px;
+}
+
+#tray > widget {
+    margin-top: 0;
+}
+
+#tray image {
+    margin: 2px;
+}
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+}
+
+/* ---- Critical states ---- */
+@keyframes blink {
+    to { color: #f38ba8; }
+}
+#battery.critical:not(.charging) {
+    color: #f38ba8;
+    animation: blink 1s steps(2) infinite alternate;
+}
+
+#temperature.critical {
+    color: #f38ba8;
+}
+
+/* ---- Scratchpad ---- */
+#scratchpad {
+    background: rgba(255, 255, 255, 0.06);
+}
+#scratchpad.empty {
+    background: transparent;
+}

@@ -1,0 +1,25 @@
+{
+  "label":"Lock",
+  "action":"swaylock",
+  "text":"Lock",
+  "keybind":"l"
+}
+{
+  "label":"Poweroff",
+  "action":"poweroff",
+  "text":"Poweroff",
+  "keybind":"p"
+}
+{
+  "label":"Suspend",
+  "action":"systemctl suspend",
+  "text":"Suspend",
+  "keybind":"s"
+}
+{
+  "label":"Reboot",
+  "action":"systemctl reboot",
+  "text":"Reboot",
+  "keybind":"r"
+}
+
